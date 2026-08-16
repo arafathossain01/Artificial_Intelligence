@@ -1,5 +1,6 @@
 Folder Structure
 
+```
 Artificial_Intelligence/
 │
 ├── algorithm/
@@ -14,3 +15,4 @@ Artificial_Intelligence/
 │
 ├── README.md
 └── test.py
+```
